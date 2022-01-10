@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = srwthomas1@gmail.com
+	name = scott thomas
